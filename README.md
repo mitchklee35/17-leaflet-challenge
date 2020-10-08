@@ -1,4 +1,4 @@
-# Mapping this weeks Earthquake.USGS
+# Mapping this week's Earthquake.USGS
 
 Data Analysis and Visualization Course
 
